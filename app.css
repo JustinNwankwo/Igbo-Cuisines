@@ -18,14 +18,17 @@ h5 {
   font-weight: 300;
 }
 
-a {
-  color: #222;
+.btn-brand {
+  border-radius: 0;
+  padding: 15px 30px;
   text-decoration: none;
-  transition: all 0.4s;
+  background-color: #11a93a;
+  border-color: #11a93a;
+  color: white;
+  font-weight: 500;
 }
-a:hover {
-  color: #f58d17;
-}
-.btn-success {
-  border-radius: 0%;
+.btn-brand:hover {
+  background-color: #078d2b;
+  border-color: #078d2b;
+  color: white;
 }
