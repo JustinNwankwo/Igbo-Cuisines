@@ -42,10 +42,9 @@ h6 {
 }
 .slide-2 {
   background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url(/assets/fufu.jpg);
+    url(/assets/jollofrice.jpg);
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center;
 }
 .carousel-control-prev,
 .carousel-control-next {
